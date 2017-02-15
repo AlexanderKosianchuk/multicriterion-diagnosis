@@ -1,0 +1,61 @@
+
+ÚÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³Ele-³                           ³Efecto de la regulac. ³Rango permicib.³
+³men.³  Finalidad de regulacion  ÃÄÄÄÄÄÂÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄ´
+³reg.³                           ³Magn.³ Varia  ³Aumenta³Derecha³Izquer.³
+ÃÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÅÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄ´
+³ 1-a³ Consumo en la zona t*g_lim³12-cl³5.5-9.5%³ A la  ³12-cl. ³12-cl. ³
+³    ³                           ³1-v  ³en teno ³derecha³1-vuel.³1-vuel.³
+³    ³                           ³     ³la curva³       ³       ³       ³
+³ 1-b³                           ³     ³        ³       ³       ³       ³
+³    ³                           ³     ³        ³       ³       ³       ³
+³  5 ³Consumo de combustible en  ³     ³        ³Derecha³       ³       ³
+³    ³el regimen N_min           ³     ³        ³       ³       ³       ³
+³  6 ³“¯®à “„ "‚‡‹…’"           ³     ³        ³Izquer.³       ³       ³
+³  7 ³“¯®à “„ "Œ€‹›‰ ƒ€‡"       ³     ³        ³Derecha³       ³       ³
+³  8 ³ áå®¤ ¯® å à ªâ¥à¨áâ¨ª¥   ³     ³        ³       ³       ³       ³
+³  9 ³Encendido del sistema de   ³     ³        ³ A la  ³       ³       ³
+³    ³autoembanderado en los re- ³     ³        ³derecha³       ³       ³
+³    ³gimenes A_msm   54...58    ³     ³        ³       ³       ³       ³
+³ 14 ³Aumento brusco de RPM      ³     ³        ³ A la  ³       ³       ³
+³    ³                           ³     ³        ³izquer.³       ³       ³
+³ 15 ³Frequencia de revoluciones ³1 ra-³  0.6 % ³ A la  ³       ³       ³
+³    ³(RPM) en el regimen de GM  ³ nura³        ³derecha³       ³       ³
+³    ³                           ³     ³        ³       ³       ³       ³
+³ 16 ³Ritmo de aumento de la tem-³1-cl ³10 kg/h ³ A la  ³4-click³4-click³
+³    ³peratura en la 2-da y 3-ra ³1/12-³        ³izquer.³1/3-v. ³1/3-v. ³
+³    ³etapa del arranque         ³vuel.³        ³       ³       ³       ³
+³ 17 ³Ritmo de aumento de la P_c ³1-cl ³3.5 kg/h³ A la  ³6-click³12-cl. ³
+³    ³y t* gases despues de 20...³1/12-³        ³derecha³1/2-v. ³1-vuel.³
+³    ³25 % (parte 35...74%)      ³vuel.³        ³       ³       ³       ³
+³ 19 ³Œ ªá¨¬ «ì­ ï ç áâ®â  ¢à é. ³     ³        ³       ³       ³       ³
+³ 20 ³Estabilidad de operacion   ³12-cl³  4.5 % ³ A la  ³12-cl. ³12-cl. ³
+³    ³del motor en el rango de   ³1-v. ³        ³derecha³1-vuel.³1-vuel.³
+³    ³65..72 % (5-ta etapa)      ³     ³        ³       ³       ³       ³
+³ 21 ³Estabilidad de operacion   ³12-cl³  4.5 % ³ A la  ³12-cl. ³12-cl. ³
+³    ³del motor en el rango de   ³1-v. ³        ³derecha³1-vuel.³1-vuel.³
+³    ³85..90 % (8-ta etapa)      ³     ³        ³       ³       ³       ³
+³ 23 ³Presion de aceite en KTA   ³     ³        ³Derecha³       ³       ³
+³ 24 ³’¥¬¯ë ª®àà¥ªæ¨¨ ¯® ¢ëá®â¥  ³     ³        ³       ³       ³       ³
+³ 29 ³Œ¨­¨¬.áà¥§ª  ¯® ‚‘•        ³     ³        ³       ³       ³       ³
+³ 30 ³’¥¬¯ë ª®àà¥ªæ¨¨ ¯® áª®à®áâ¨³     ³        ³       ³       ³       ³
+³ 36 ³Consumo de combustible en  ³1-v. ³1.5% por³       ³5-vuelt³5-vuelt³
+³    ³la zona N_lim              ³     ³toda la ³       ³       ³       ³
+³    ³                           ³     ³curva   ³       ³       ³       ³
+³ 37 ³ ç «® à ¡®âë â¥à¬®ª®àà¥ªâ.³     ³        ³       ³       ³       ³
+³ 39 ³’¥¬¯ë ª®àà¥ªæ¨¨ ¯® â¥¬¯¥à â³     ³        ³       ³       ³       ³
+³ 40 ³ ç «® à ¡®âë â¥à¬®ª®àà¥ªâ.³     ³        ³       ³       ³       ³
+³ 42 ³Correspondencia de las fre-³6-cl.³0.25 -  ³ A la  ³5-vuelt³5-vuelt³
+³    ³quencias de equilibre      ³1-v. ³ - 0.35%³derecha³       ³       ³
+³    ³                           ³     ³        ³       ³       ³       ³
+³ 44 ³“¯®à “„ "Œ€‹›‰ ƒ€‡"       ³     ³        ³Derecha³       ³       ³
+³ 45 ³“¯®à “„ "‚‡‹…’"           ³     ³        ³Izquer.³       ³       ³
+³ 46 ³Consumo de combustible en  ³     ³        ³ A la  ³12-cl. ³12-cl. ³
+³    ³el regimen N_decol         ³     ³        ³izquer.³1-vuel.³1-vuel.³
+³    ³                           ³     ³        ³       ³       ³       ³
+³ 47 ³Encendido del sistema de   ³     ³        ³ A la  ³       ³       ³
+³    ³autoembanderado en los re- ³     ³        ³izquer.³       ³       ³
+³    ³gimenes A_msm   74         ³     ³        ³       ³       ³       ³
+ÀÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÁÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÙ
+
+
